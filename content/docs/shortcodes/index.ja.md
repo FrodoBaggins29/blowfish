@@ -284,24 +284,6 @@ Blowfish も、標準の Markdown 構文を使用して含まれる画像の自�
 
 <br/><br/><br/>
 
-## Forgejo カード
-
-`forgejo` を使用すると、forgejo API を介して Forgejo リポジトリをすばやくリンクでき、スターやフォークなどの統計をリアルタイムで更新できます。
-
-<!-- prettier-ignore-start -->
-| パラメータ | 説明                                           |
-| --------- | ----------------------------------------------------- |
-| `repo`    | [文字列] `username/repo` 形式の forgejo リポジトリ|
-| `server`  | [文字列] `https://v8.next.forgejo.org` のようなサーバー URL|
-<!-- prettier-ignore-end -->
-
-**例1:**
-
-```md
-{{</* forgejo server="https://v8.next.forgejo.org" repo="forgejo/forgejo" */>}}
-```
-{{< forgejo server="https://v8.next.forgejo.org" repo="forgejo/forgejo" >}}
-
 <br/><br/><br/>
 
 ## ギャラリー
