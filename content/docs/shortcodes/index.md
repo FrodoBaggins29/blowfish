@@ -286,23 +286,9 @@ Blowfish also supports automatic conversion of images included using standard Ma
 
 <br/><br/><br/>
 
-## Forgejo Card
 
-`forgejo` allows you to quickly link a Forgejo repository via the forgejo API, providing real-time updates on stats such as stars and forks.
 
-<!-- prettier-ignore-start -->
-| Parameter | Description                                           |
-| --------- | ----------------------------------------------------- |
-| `repo`    | [String] forgejo repo in the format of `username/repo`|
-| `server`  | [String] server URL like `https://v8.next.forgejo.org`|
-<!-- prettier-ignore-end -->
 
-**Example 1:**
-
-```md
-{{</* forgejo server="https://v8.next.forgejo.org" repo="forgejo/forgejo" */>}}
-```
-{{< forgejo server="https://v8.next.forgejo.org" repo="forgejo/forgejo" >}}
 
 <br/><br/><br/>
 
