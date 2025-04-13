@@ -9,7 +9,7 @@ series: ["Documentation"]
 series_order: 14
 ---
 
-There are many ways to deploy your Hugo website built with Blowfish. The theme is designed to be flexible in almost any deployment scenario.
+There are many ways to deploy your Hugo website built with Blowfish and Rene Nel. The theme is designed to be flexible in almost any deployment scenario.
 
 Blowfish is built using relative URLs throughout the theme. This enables sites to easily be deployed to sub-folders and hosts like GitHub Pages. There's usually no special configuration required for this to work as long as the `baseURL` parameter has been configured in the `config.toml` file.
 
