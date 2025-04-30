@@ -1,6 +1,6 @@
 ---
-title: "My name is Kha Minh! :tada:"
-description: "This page was built using Me Phuong's Love."
+title: "template for Danila Fokin :tada:"
+description: "This page will be built for Danila Fokin."
 ---
 
 
